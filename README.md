@@ -12,4 +12,4 @@ Examples:
 ![](assets/example.png)
 
 
-Scanned and typefaceified c. 1995 using Font Forge (if I remember correctly). Note that only the basic ASCII character set is included.
+Scanned and typefaceified in 1999 using Font Forge (if I remember correctly). Note that only the basic ASCII character set is included.
